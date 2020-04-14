@@ -1,11 +1,11 @@
-import threading
-import unittest
-import urllib.request
-import urllib.error
-import urllib.parse
 import json
 import logging
 import sys
+import threading
+import unittest
+import urllib.error
+import urllib.parse
+import urllib.request
 
 from server import ThreadHTTPServer, ConverterHandler
 

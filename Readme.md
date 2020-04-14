@@ -1,7 +1,7 @@
 Hi!
 
 This is a written on "pure" python USD -> RUB converter.
-Thanks to api.exchangeratesapi.io for USD/RUB rate exchange.
+Thanks to **api.exchangeratesapi.io** for USD/RUB rate exchange.
 
 Converter is ready to go, to launch it write:
 

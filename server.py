@@ -1,10 +1,9 @@
 import http.server
-import urllib.request
 import json
-import os
 import logging
+import os
 import sys
-
+import urllib.request
 from socketserver import ThreadingMixIn
 
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
